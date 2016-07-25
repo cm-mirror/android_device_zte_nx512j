@@ -130,3 +130,7 @@ sys.games.gt.prof=0
 
 # lazy dexopt, use on your own risk
 persist.sys.lazy.dexopt=0
+
+romjd.rom.id=860f582f-d4d4-40b7-a3f0-c5753b5b6d35
+romjd.rom.version=1.1.0
+romjd.rom.version.code=1
